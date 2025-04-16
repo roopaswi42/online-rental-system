@@ -30,7 +30,7 @@ It aims to streamline the rental process by offering online reservations and man
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/roopaswi42/online-rental-system/tree/main
     ```
 
 2.  Import the project into your Java IDE.
